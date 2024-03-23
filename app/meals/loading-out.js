@@ -4,6 +4,6 @@ function MealLoading() {
   return (
     <div className={classes.loading}>loading</div>
   )
-}
+} 
 
-export default MealLoading
+export default MealLoading 
